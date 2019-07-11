@@ -5,12 +5,7 @@ main:
   - title: "Category"
     url: "/categories/"
   
-# 해본것 포스트 사이드바
-sidebar-Tryting:
-  -title: "무언가 해본것들"
-    childeren:
-    - title: "깃허브 블로그 제작 후기"
-    url: "
+
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
