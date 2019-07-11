@@ -295,51 +295,6 @@ defaults:
       related: true
       # Defaults
 
-  # _posts/BaekjoonCondeQuiz
-  - scope:
-      path: "_posts/BaekjoonCondeQuiz"
-      type: posts
-    values:
-      layout: single
-      classes: wide
-      author_profile: true
-      comments: true
-      share: true
-      search: true
-      related: true
-      sidebar:
-        nav: sidebar-blogging
-        
-   # _posts/Tryting
-  - scope:
-      path: "_posts/Tryting"
-      type: posts
-    values:
-      layout: single
-      classes: wide
-      author_profile: true
-      comments: true
-      share: true
-      search: true
-      related: true
-      sidebar:
-        nav: sidebar-blogging
-        
-   # _posts/Study/JavaScript
-  - scope:
-      path: "_posts/Study/JavaScript"
-      type: posts
-    values:
-      layout: single
-      classes: wide
-      author_profile: true
-      comments: true
-      share: true
-      search: true
-      related: true
-      sidebar:
-        nav: sidebar-blogging
-        
    # _pages
   - scope:
       path: "_pages"
