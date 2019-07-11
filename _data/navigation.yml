@@ -4,6 +4,13 @@ main:
     url: "/about/"
   - title: "Category"
     url: "/categories/"
+  - title: "Study"
+    children:
+    - title: "JavaScript"
+    url: "/_post/javascript/"
+    - title: "Java"
+    url: "/_post/java/"
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
