@@ -2,7 +2,7 @@
 title: "minimal mistakes 테마활용하여 깃허브 블로그 제작"
 categories:
  -Tryting
- last_modified_at: 2019-07-11T15:47+09:00
+ last_modified_at: 2019-07-11T15:40:00+09:00
  toc: true
  ---
  
